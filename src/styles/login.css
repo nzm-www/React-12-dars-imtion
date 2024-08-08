@@ -1,0 +1,25 @@
+.left , .right{
+      height: 100vh;
+}
+.left{
+      background-image: url('../assets/BgImage.svg');
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.logo{
+      width: 50px;
+      height: 50px;
+}
+.login-input{
+      width: 300px !important;
+      height: 40px;
+}
+.login-label{
+      font-size: 14px;
+}
+.remember{
+      font-size: 14px;
+}
+.restore-password a{
+      font-size: 14px;
+}
